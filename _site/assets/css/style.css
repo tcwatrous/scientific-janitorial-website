@@ -934,7 +934,7 @@ h3 span {
 	width: inherit;
 }
 .cta-area {
-	background-position: center top;
+	background-position: center center;
 	background-size: cover;
 	padding: 100px 0;
   background-color:#d0ad75;
